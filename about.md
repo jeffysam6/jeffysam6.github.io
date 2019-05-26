@@ -9,10 +9,10 @@ I'm a 2nd year undergraduate student currently studying at Fr. Conceicao Rodrigu
 ### Internships
 
 
-<img src="http://bootcamp.datumguy.com/img/DatumGuyLogo.jpg">
+<img src="http://bootcamp.datumguy.com/img/DatumGuyLogo.jpg" width="250">
 
 * Data Science Content Intern at Datum Guy (June 2019 - July-2019)
 
 ### Contact me
 
-[email@domain.com](mailto:jeffysam02@gmail.com)
+[jeffysam02@gmail.com](mailto:jeffysam02@gmail.com)
