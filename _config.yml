@@ -6,11 +6,7 @@
 name: Jeffy John Sam
 
 # Short bio or description (displayed in the header)
-<<<<<<< HEAD
 description: CS Undergrad at F.C.R.I.T
-=======
-description: CS Undergrad at F.C.R.I.T.
->>>>>>> 2128e45586bd6f193b0d047d4ea3e1d6231b58db
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/face.jpg
@@ -25,21 +21,13 @@ footer-links:
   email:jeffysam02@gmail.com
   facebook:
   flickr:
-<<<<<<< HEAD
   github:github.com/jeffysam6
   instagram:https://www.instagram.com/jeffysam6/
   linkedin:https://www.linkedin.com/in/jeffysam6/
   pinterest:
   rss: rss
   twitter:twitter.com/jeffyjsam
-=======
-  github: barryclark/jekyll-now
-  instagram:
-  linkedin:https://www.linkedin.com/in/jeffysam6/
-  pinterest:
-  rss: rss
-  twitter: jekyllrb
->>>>>>> 2128e45586bd6f193b0d047d4ea3e1d6231b58db
+
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
