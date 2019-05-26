@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a 2nd year undergraduate student currently studying at Fr. Conceicao Rodrigues Institute of Technology and majoring in computer engineering. Currently interested in Software development,Data Science and Cyber Security 
 
-### More Information
+### Internships
 
-A place to include any other types of information that you'd like to include about yourself.
+* Data Science Content Intern at Datum Guy (June 2019 - July-2019)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:jeffysam02@gmail.com)
